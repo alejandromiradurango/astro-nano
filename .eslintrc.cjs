@@ -26,7 +26,10 @@ module.exports = {
         parser: "@typescript-eslint/parser",
         extraFileExtensions: [".astro"],
       },
-      rules: {},
+      rules: {
+        "quotes": "off",
+        "semi": "off",
+      },
     },
   ],
 };

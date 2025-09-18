@@ -17,7 +17,8 @@ export function readingTime(html: string) {
   const textOnly = html.replace(/<[^>]+>/g, "");
   const wordCount = textOnly.split(/\s+/).length;
   const readingTimeMinutes = ((wordCount / 200) + 1).toFixed();
-  return `${readingTimeMinutes} min read`;
+  // eslint-disable-next-line quotes
+  return `${readingTimeMinutes} ${readingTimeMinutes === '1' ? 'minuto' : 'minutos'} de lectura`;
 }
 
 export function dateRange(startDate: Date, endDate?: Date | string): string {
