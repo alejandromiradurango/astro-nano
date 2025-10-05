@@ -1,21 +1,24 @@
 ---
-import Head from "@components/Head.astro";
-import Header from "@components/Header.astro";
-import Footer from "@components/Footer.astro";
-import { SITE } from "@consts";
+import Head from '@components/Head.astro'
+import Header from '@components/Header.astro'
+import Footer from '@components/Footer.astro'
+import { SITE } from '@consts'
 
 type Props = {
-  title: string;
-  description: string;
-};
+  title: string
+  description: string
+}
 
-const { title, description } = Astro.props;
+const { title, description } = Astro.props
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
     <Head title={`${title} | ${SITE.NAME}`} description={description} />
+    <script
+      src="https://admin.guru-genius.ai/widget.js?chatbot=MU7PFGbFBZc9k18o5gGU7"
+      defer></script>
   </head>
   <body>
     <Header />
