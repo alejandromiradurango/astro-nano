@@ -1,5 +1,5 @@
 ---
-title: "Tabla comparativa relaciones UML"
+title: "UNIDAD 1: Tabla comparativa relaciones UML"
 description: "Cuadro comparativo de las relaciones de clases en UML: agregación, composición y especialización."
 date: "Sep 14 2025"
 ---

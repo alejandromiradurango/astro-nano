@@ -1,5 +1,5 @@
 ---
-title: "Diferencias entre objeto, clase y método"
+title: "UNIDAD 1: Diferencias entre objeto, clase y método"
 description: "Explicación sencilla de los conceptos fundamentales en la Programación Orientada a Objetos."
 date: "Aug 18 2025"
 ---

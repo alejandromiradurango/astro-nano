@@ -1,5 +1,5 @@
 ---
-title: "Componentes y pilares de la POO"
+title: "UNIDAD 1: Componentes y pilares de la POO"
 description: "Resumen de los elementos básicos y principios fundamentales de la Programación Orientada a Objetos."
 date: "Aug 30 2025"
 ---
