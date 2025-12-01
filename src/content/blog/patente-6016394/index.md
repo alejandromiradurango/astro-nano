@@ -1,5 +1,5 @@
 ---
-title: "Patente estadounidense No. 6016394"
+title: "UNIDAD 3: Patente estadounidense No. 6016394"
 description: "Resumen analítico del sistema patentado para la creación automatizada de aplicaciones basadas en bases de datos."
 date: "Nov 30 2025"
 ---

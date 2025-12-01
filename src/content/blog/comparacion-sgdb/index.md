@@ -1,5 +1,5 @@
 ---
-title: "Comparación de Sistemas Gestores de Bases de Datos (SGBD)"
+title: "UNIDAD 3: Comparación de Sistemas Gestores de Bases de Datos (SGBD)"
 description: "Cuadro comparativo de los SGBD más representativos del mercado: SQL Server, Oracle Database, MySQL y PostgreSQL."
 date: "Nov 25 2025"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "REDA: Gestión de información desde bases de datos"
+title: "UNIDAD 3: REDA: Gestión de información desde bases de datos"
 description: "Comparación de ventajas y desventajas entre ADO.NET y SQLClient en el acceso a datos."
 date: "Nov 27 2025"
 ---
